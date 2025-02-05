@@ -17,5 +17,4 @@ graph TD
     E -- No --> N[Display warning: 'Please upload a resume and enter a job description'];
     M --> A;
     N --> A;
-    L --> A;
     ```
