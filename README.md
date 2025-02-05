@@ -15,7 +15,7 @@ graph TD
     J --> K[Generate report: match %, matched keywords, missing keywords, summary, improvement suggestions];
     K --> L[Display report to user];
     E -- No --> N[Display warning: 'Please upload a resume and enter a job description'];
-    L --> A;
     M --> A;
     N --> A;
+    L --> A;
     ```
